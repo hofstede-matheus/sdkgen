@@ -1,2 +1,0 @@
-# @sdkgen/playground
-
